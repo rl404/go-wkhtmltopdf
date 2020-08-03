@@ -7,7 +7,7 @@ Using [Surnet/docker-wkhtmltopdf](https://github.com/Surnet/docker-wkhtmltopdf) 
 ## Simple Usage Example
 
 ```dockerfile
-FROM rl404/go-wkhtmltopdf:0.1.0
+FROM rl404/go-wkhtmltopdf:latest
 
 WORKDIR /go/src/github.com/your-name/project-name
 
